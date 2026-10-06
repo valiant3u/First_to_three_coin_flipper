@@ -1,5 +1,5 @@
 import random
-
+//whatever
 name = 'Name: Nirvana Ayad'
 print(f'{name:^40}')
 
